@@ -1,0 +1,69 @@
+body{
+    background-color: #cccccc;
+}
+
+.bg-body-tertiary{
+    background-color: #cccccc;
+}
+
+.empress__logo{
+    height: 128px;
+    width: 128px;
+}
+
+.header__cart{
+    height: 24px;
+    width: 24px;
+}
+
+.row{
+    padding: 25px;
+}
+
+    
+
+.buy-button{
+    padding-left: 28%;
+    
+   
+
+}
+
+
+.footer h1{
+    font-family: Impact, " Charcoal", " sans-serif";
+    color: #333333;
+    font-size: 20px;
+}
+
+.footer__contatos_tel{
+    background-color: #ffffff;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
+
+.body-line{
+    width: 100%;
+    height: 1px;
+    background-color: #333333;
+}
+
+.footer__redes img{
+    height: 24px;
+}
+
+.pages{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.toolbar{
+    padding: 10px;
+    padding-top: 60px;
+}
+
+.text-left{
+    text-align: left;
+}
